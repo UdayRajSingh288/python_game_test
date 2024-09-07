@@ -1,0 +1,7 @@
+Layer
+	- has several images
+	- has scale
+	- when a certain scale is reached
+		- disappers if it does not collide with player
+		- blocks the player otherwise from moving forward
+	- has a lower limit of scaling
